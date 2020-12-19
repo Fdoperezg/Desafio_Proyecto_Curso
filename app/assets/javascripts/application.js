@@ -11,6 +11,15 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require 'jquery.min'
+//= require 'jquery.min'
+//= require 'jquery.dropotron.min'
+//= require 'jquery.scrolly.min'
+//= require 'jquery.scrollex.min'
+//= require 'browser.min'
+//= require 'breakpoints.min'
+//= require 'util'
+//= require 'main'
 //= require activestorage
 //= require turbolinks
 //= require_tree .
